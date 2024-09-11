@@ -2612,6 +2612,11 @@ Contributed by Chunyang Zhang.
 
    *Tara Akhound-Sadegh, Laurence Perreault-Levasseur, Johannes Brandstetter, Max Welling, and Siamak Ravanbakhsh.*
 
+1. **Adversarial Learning for Neural PDE Solvers with Sparse Data.** arXiv, 2024. [paper](https://arxiv.org/pdf/2409.02431)
+
+   *Gong Y, Hou Y, Wang Z, et al.*
+   
+
 1. **Stacked networks improve physics-informed training: Applications to neural networks and deep operator networks.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.06483)
 
    *Amanda A Howard, Sarah H Murphy, Shady E Ahmed, and Panos Stinis.*
@@ -3259,6 +3264,10 @@ Contributed by Chunyang Zhang.
    *Vincent Le Guen and Nicolas Thome.*
 
 ### [Solver](#content)
+1. **Adversarial Learning for Neural PDE Solvers with Sparse Data.** arXiv, 2024. [paper](https://arxiv.org/pdf/2409.02431)
+
+   *Gong Y, Hou Y, Wang Z, et al.*
+
 1. **Solver-in-the-loop: Learning from differentiable physics to interact with iterative PDE-solvers.** NIPS, 2020. [paper](https://dl.acm.org/doi/abs/10.5555/3495724.3496237)
 
    *Kiwon Um, Robert Brand, Yun (Raymond) Fei, Philipp Holl, and Nils Thuerey.*
